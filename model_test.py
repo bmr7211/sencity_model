@@ -91,4 +91,4 @@ for file in os.listdir('.'):
 
 # 테스트
 print("\n" + "=" * 50)
-classify_image('PetImages00/Dog/400.jpg')
+classify_image('사용자가 업로드한 이미지파일')
